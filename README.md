@@ -1,9 +1,9 @@
-# The Debug Dance @ ZendCon & Open Enterprise 2018
+# The Debug Dance @ php[world] 2018
 
-This repo contains a list of examples used in my talk, ["The Debug Dance - An Intro To Step Debugging" @ ZendCon & Open Enterprise 2018](https://www.zendcon.com/sessions/the-debug-dance-an-intro-to-step-debugging).
+This repo contains a list of examples used in my talk, ["The Debug Dance - An Intro To Step Debugging" @ php[world] 2018](https://world.phparch.com/sessions/the-debug-dance-an-intro-to-step-debugging/).
 
-- [Slides](https://speakerdeck.com/sammyk/the-debug-dance-an-intro-to-step-debugging-zendcon-and-openenterprise-2018)
-- [Feedback](https://joind.in/event/zendcon-2018/the-debug-dance-an-intro-to-step-debugging)
+- [Slides](https://speakerdeck.com/sammyk/the-debug-dance-an-intro-to-step-debugging-php-world-2018)
+- [Feedback](https://joind.in/event/phpworld-2018/the-debug-dance---an-intro-to-step-debugging)
 
 ## Docker setup
 
